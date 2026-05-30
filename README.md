@@ -4,7 +4,7 @@
 ## 2. Implementation of different categories of operators.
 # Ex.No:1
   Build a C program to demonstrate the usage of different types of literals: integer, float, character, and string.  
-# Date : 
+# Date : 17/04/2026
 # Aim:
 To build a C program that prints integer, float,character, and string literals on the console using the printf() function.
 # Algorithm:
@@ -26,7 +26,11 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
+<img width="803" height="495" alt="image" src="https://github.com/user-attachments/assets/e6a9be13-eb9d-4dd1-8bc0-3a4b3cbde419" />
+
 # Output:
+<img width="548" height="181" alt="image" src="https://github.com/user-attachments/assets/9cf0afb9-d628-4b31-aaf0-74cffaef7deb" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -35,7 +39,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-1- Module 1 - FoC
 # Ex.No:2
   Build a C program to display the value of a macro constant and a constant variable.
-# Date : 
+# Date :17/04/2026
 # Aim:
   To build a C program that demonstrates the use of macro constants and constant variables.
 # Algorithm:
@@ -57,7 +61,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+<img width="812" height="374" alt="image" src="https://github.com/user-attachments/assets/6f762e6c-2f8e-4787-bd0b-63b69edb116a" />
+
 # Output:
+<img width="518" height="202" alt="image" src="https://github.com/user-attachments/assets/7483076b-4956-417e-9348-ac9b0bc290ff" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -66,7 +74,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-1- Module 1 - FoC
 # Ex.No:3
   Build a C program to demonstrate the use of different data types such as int, float, double, and char, and display their values using printf().
-# Date : 
+# Date : 17/04/2026
 # Aim:
   To build a C program that declares variables of various data types—integer, float, double, and character—initializes them, and prints their values on the screen.
 # Algorithm:
@@ -81,14 +89,18 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+<img width="792" height="361" alt="image" src="https://github.com/user-attachments/assets/6b89b867-4710-4f1c-9fbd-9929576111c3" />
+
 # Output:
+<img width="415" height="180" alt="image" src="https://github.com/user-attachments/assets/19a4da19-d1a0-462a-8801-28d02d61136e" />
+
 # Result: 
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
 # IAPR-1- Module 1 - FoC
 # Ex.No:4
   Build a C program to perform arithmetic and bitwise operations on two integers entered by the user. The program should display: Arithmetic operations: addition, subtraction, multiplication, division, and remainder. Bitwise operations: AND, OR, XOR, left shift, right shift, and NOT.
-# Date : 
+# Date : 17/04/2026
 # Aim:
   To build a C program that takes two integers as input and demonstrates the arithmetic and bitwise operations, displaying the results of each operation.
 # Algorithm:
@@ -120,7 +132,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="789" height="604" alt="image" src="https://github.com/user-attachments/assets/16336fb2-9724-4e15-955f-7c4fa9cffbd4" />
+
 # Output:
+<img width="474" height="625" alt="image" src="https://github.com/user-attachments/assets/dbcbe0de-40e5-4aaa-b773-fcbb6f9183d5" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -129,7 +145,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-1- Module 1 - FoC
 # Ex.No:5
   Develop a C program to check whether a given character is a vowel, consonant, digit, or special symbol using the ternary operator.
-# Date : 
+# Date : 17/04/2026
 # Aim:
   To develop and implement a C program that classifies a character as a vowel, consonant, digit, or special symbol using the ternary operator.
 # Algorithm:
@@ -165,7 +181,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="793" height="536" alt="image" src="https://github.com/user-attachments/assets/ab9fe93f-ec46-479d-a703-c908e50f58c4" />
+
 # Output:
+<img width="507" height="189" alt="image" src="https://github.com/user-attachments/assets/583e948d-7ab7-4c05-91cc-61d5993e55ce" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
